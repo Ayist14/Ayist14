@@ -14,7 +14,7 @@ I've stayed in the community for about 2 years. During these years, I've learned
   
   As the title at website mentioned, It's bulit by **ADT (Abstract Data Type)**. So you can build your project with them as *truth* dictionaries.
 
-* [DeepSeek Library in Snap<em>!</em>](https://snap.berkeley.edu/project?username=ayist14&projectname=The%20First%20DeepSeek%20Library%20in%20Snap%21) (Snap<em>!</em> 12.0.0+)
+* [DeepSeek Library in Snap<em>!</em>](https://snap.berkeley.edu/project?username=ayist14&projectname=The%20First%20DeepSeek%20Library%20in%20Snap%21) (Snap<em>!</em> 10.1.0+)
 
   *p.s.: It's really a toy because "种瓜" (wwj718 in GitHub) once published the first one at [snap.codelab.club/snap.html](https://snap.codelab.club/snap.html) and it’s better than the one I made.*
 
@@ -25,6 +25,6 @@ I've stayed in the community for about 2 years. During these years, I've learned
 
 ---
 
-In fact, Snap<em>!</em> is a great and meaningful language (Yes, I called it "language", not "editor" or "toy") because it depends on many features directly which are also serious in text-based language. Although it's very slow and unpopular, if you learn it very deeply, you'll admire the prefect designs between graphics and abstract things, and fall into love with it.
+In fact, Snap<em>!</em> is a great and meaningful language (Yes, I called it "language", not "editor" or "toy") because it depends on many features directly which are also serious in text-based language. Although it's very slow and unpopular, if you learn it very deeply, you'll admire the designs between graphics and abstract things, and fall into love with it.
 
 *To be continued*
