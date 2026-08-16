@@ -31,6 +31,6 @@ I've stayed in the community for about 2 years. During these years, I've learned
 
 In fact, Snap<em>!</em> is a great and meaningful language (Yes, I called it "language", not "editor" or "toy") because it depends on many features directly which are also serious in text-based language. Although it's very slow and unpopular, if you learn it very deeply, you'll admire the designs between graphics and abstract things, and fall into love with it.
 
-So I began to translate Snap<em>!</em> into Chinese from this year. By now, I've translated all blocks after [Snap<em>!</em> 11](https://github.com/jmoenig/Snap/releases/tag/v11.0.0), almost of features after [Snap<em>!</em> 10](https://github.com/jmoenig/Snap/releases/tag/v10.0.0) and half of libraries.
+So I began to translate Snap<em>!</em> into Chinese from this year. By now, I've translated all new blocks after [Snap<em>!</em> 11](https://github.com/jmoenig/Snap/releases/tag/v11.0.0), almost of features after [Snap<em>!</em> 10](https://github.com/jmoenig/Snap/releases/tag/v10.0.0) and half of libraries.
 
 *To be continued*
