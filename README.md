@@ -1,8 +1,6 @@
 # About me
 > A common Snap<em>!</em> user from [snap.berkeley.edu](https://snap.berkeley.edu), not a *real* Snap<em>!</em> master that you called.
 
-Hello, welcome to my GitHub Profile!
-
 I'm Ayist14, a **Chinese Snap<em>!</em> user** from Snap<em>!</em> Community.
 
 I've stayed in the community for about 2 years. During these years, I've learned a lot of knowledge of Snap<em>!</em> by looking up something at [Snap<em>!</em> Forum](https://forum.snap.berkeley.edu), and published *only few* projects/libraries at community such as:
@@ -32,5 +30,10 @@ I've stayed in the community for about 2 years. During these years, I've learned
 In fact, Snap<em>!</em> is a great and meaningful language (Yes, I called it "language", not "editor" or "toy") because it depends on many features directly which are also serious in text-based language. Although it's very slow and unpopular, if you learn it very deeply, you'll admire the designs between graphics and abstract things, and fall into love with it.
 
 So I began to translate Snap<em>!</em> into Chinese from this year. By now, I've translated all new blocks after [Snap<em>!</em> 11](https://github.com/jmoenig/Snap/releases/tag/v11.0.0), almost of features after [Snap<em>!</em> 10](https://github.com/jmoenig/Snap/releases/tag/v10.0.0) and half of libraries.
+
+# Others
+* I'm a senior-high-school student that has entered to [**Liupanshui Municipal No.3 Middle School (六盘水市第三中学)**](https://gz.123456edu.com/HeightSchoolIndex-409.html).
+* I've experienced the *painful* and *long* period from August 18 to August 25 in the school below.
+
 
 *To be continued*
