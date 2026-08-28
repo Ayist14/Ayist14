@@ -33,20 +33,24 @@ So I want to do something for Snap<em>!</em>, and make it friendly for Scratcher
 
 * I began to translate Snap<em>!</em> into Chinese from this year. By now, I've translated all new blocks after [Snap<em>!</em> 11](https://github.com/jmoenig/Snap/releases/tag/v11.0.0), almost of features after [Snap<em>!</em> 10](https://github.com/jmoenig/Snap/releases/tag/v10.0.0) and half of libraries.
 
+# What am I doing now?
+*Nothing for coding, except translating Snap! into Simplified Chinese.* 
+
+*And I must prepare for my senior-high-school life started on August 31, 2026.* 
+
+*So I might have no time to keep active and keep coding in GitHub and Snap! community after the beginning day.*
+
 # Others of me
 * I'm not good at English, even though I can express my real ideas in English.
 * I'm a senior-high-school student that has entered to [**Liupanshui Municipal No.3 Middle School (六盘水市第三中学)**](https://gz.123456edu.com/HeightSchoolIndex-409.html).
 * I've experienced the *painful* and *long* period for physical training (you know) from August 18 to August 25 in the school below.
 
-# How to Contract me
+# How to Contact me
 If you would like to do, you can remember some of these below:
 
 * **Email**: www430322995@qq.com;
 * **bilibili (哔哩哔哩)**: [my main account](https://space.bilibili.com/3537119672797770?spm_id_from=333.337.0.0);
 * **QQ**: 430322995 *(But I'm not active here)*;
-* **WeChat (微信)**: 
-  * *(custom)* ID of my account: Another-S-14;
-  * phone number of my account: 18286893656;
 * **Phone number (now)**: 18212878518.
 ---
 *To be continued, because the current README is not a symbol of the complete me.*
