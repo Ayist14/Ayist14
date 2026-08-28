@@ -34,7 +34,7 @@ So I want to do something for Snap<em>!</em>, and make it friendly for Scratcher
 * I began to translate Snap<em>!</em> into Chinese from this year. By now, I've translated all new blocks after [Snap<em>!</em> 11](https://github.com/jmoenig/Snap/releases/tag/v11.0.0), almost of features after [Snap<em>!</em> 10](https://github.com/jmoenig/Snap/releases/tag/v10.0.0) and half of libraries.
 
 # What am I doing now?
-*Nothing for coding, except translating Snap! into Simplified Chinese.* 
+*Nothing long for coding, except translating Snap! into Simplified Chinese.* 
 
 *And I must prepare for my senior-high-school life started on August 31, 2026.* 
 
